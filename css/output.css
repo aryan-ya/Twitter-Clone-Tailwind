@@ -677,9 +677,9 @@ video {
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
 }
 
-.border-\[\] {
+/* .border-\[\] {
   border-color: ;
-}
+} */
 
 .border-x-white {
   --tw-border-opacity: 1;
